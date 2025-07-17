@@ -1,12 +1,17 @@
 # FAQ – Digital Payments Advisory
 
-Static website for Péter Benyó's consulting business in digital payments, PSP strategy, and banking innovation across Central & Eastern Europe.
+Strategic consultancy for fintechs, PSPs and banks in Central & Eastern Europe.  
+Founded by Péter Benyó (ex-CEO of SimplePay, former OTP exec).
 
-## Deployment
-This is a static site. You can deploy it on GitHub Pages, Netlify, or any static host.
+Live: https://benyopeter.github.io/faq/
 
-## Structure
-- index.html – Main landing page
+## Services
+- Payments Pulse Check
+- CEE Market Entry Sprint
+- Embedded Product Partner
 
-## License
-MIT
+## Languages
+- [English version](https://benyopeter.github.io/faq/)
+- [Hungarian version](https://benyopeter.github.io/faq/hu/)
+
+---
